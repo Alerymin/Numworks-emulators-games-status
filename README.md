@@ -36,3 +36,5 @@ Notes:
 Sort games alphabetically.
 Use the full official game name with no mistakes
 If you did not finish a game, if you can go past level 1 (or any equivalent), set Running status to 2 and fix it later if needed.
+If game crashes before you can save the game, set Game Save status to X
+If game crashes before you can leave and make a savestate, set Savestate status to 0
