@@ -30,3 +30,9 @@ Gameplay rating:
 
 Notes:
   Adds precision on where the game has issues if needed
+
+## Contributing guidelines:
+
+Sort games alphabetically.
+Use the full official game name with no mistakes
+If you did not finish a game, if you can go past level 1 (or any equivalent), set Running status to 2 and fix it later if needed.
