@@ -24,9 +24,10 @@ Savestate status:
 - 1: Savestate works
 
 Gameplay rating:
-- 1: Hard to pres the buttons correctly
+- X: Not tested enough to tell
+- 1: Hard to press the buttons correctly
 - 2: It's possible to adapt without too much effort
-- 3: Game works with not effort
+- 3: Game is playable with not effort
 
 Notes:
   Adds precision on where the game has issues if needed
